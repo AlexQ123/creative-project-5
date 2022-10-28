@@ -1,0 +1,31 @@
+h3 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.rentals-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  font-family: Lato;
+}
+
+.header-panel {
+  background-color: darkgray;
+  border-radius: 4px;
+}
+
+.movie-panels {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+my-movie-tile {
+  margin-bottom: 16px;
+}

@@ -1,0 +1,41 @@
+/* Add application styles & imports to this file! */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  background-color: #dcdcdc;
+}
+
+.movie-panels {
+  margin-bottom: 75px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #474646;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+}
